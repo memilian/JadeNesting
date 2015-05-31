@@ -1,5 +1,7 @@
 # JadeNesting
 
+  Require the library [tink_macro](https://github.com/haxetink/tink_macro) to work.
+  
   This is a build macro that help you to work with nested structures. 
   It was originally written to facilitate HTML declaration with [hxdom](https://github.com/Blank101/haxe-dom) but is generic enough to work in any case you need to chain expressions with one function (xml, graphs...)
   
